@@ -8,8 +8,6 @@
 [![OpenCV][opencv-shield]][opencv-url]
 [![Dlib][dlib-shield]][dlib-url]
 
-Visit the <a href="">Web Application</a> deployed on render
-
 Visit the <a href="https://github.com/Pranav-Nagpure/Face-Swapping.git">GitHub Repository</a> of Web Application
 
 </div>
